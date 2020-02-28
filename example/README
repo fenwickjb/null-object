@@ -1,0 +1,11 @@
+Look in the IEmployeeBefore file to see what it is doing.
+Compile and run it:
+javac IEmployeeBefore.java
+java ClientBefore
+
+Then, look at IEmployee file to see how it uses the
+NullObject pattern.
+Compile and run it:
+javac IEmployee.java
+java Client
+
